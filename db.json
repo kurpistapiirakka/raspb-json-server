@@ -1,0 +1,42 @@
+{
+  "states": {
+    "ONE": "OFF",
+    "TWO": "OFF",
+    "THREE": "OFF",
+    "FOUR": "OFF"
+  },
+  "weather": {
+    "TEMP1": 23.6,
+    "TEMP2": 17.4,
+    "HUMID": 12
+  },
+  "light": {
+    "LIGHT": 1.23
+  },
+  "logs": [
+    {
+      "timestamp": "2022-11-09T12:12:04.345240",
+      "action": "STATE AUTO",
+      "values": 1
+    },
+    {
+      "timestamp": "2022-11-09T12:12:04.345240",
+      "action": "STATE OFF",
+      "values": 2
+    },
+    {
+      "timestamp": "2022-11-09T12:12:04.345240",
+      "action": "STATE ON",
+      "values": 3
+    },
+    {
+      "timestamp": "2022-11-09T12:12:04.345240",
+      "action": "WEATHER",
+      "values": [
+        1123.123,
+        1231.213,
+        123123.23
+      ]
+    }
+  ]
+}
