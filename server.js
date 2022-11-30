@@ -34,6 +34,25 @@ server.put('/state/:relay/:state', (req, res) => {
   res.send({"STATE": "OK"})
 })
 
+// custom PUT path to simulate motion seconds change
+server.put('/motion/:seconds', (req, res) => {
+  var seconds = req.params['seconds']
+  seconds = parseInt(seconds)
+
+  // assure no undefined key-value pairs end up in db
+  if(isNaN(seconds) || seconds <= 0){
+    res.send({"MOTION": 0})
+    return
+  }
+
+  var file_content = fs.readFileSync(FILE);
+  var content = JSON.parse(file_content);
+
+  content.motion['MOTION'] = seconds
+  fs.writeFileSync(FILE, JSON.stringify(content));
+  res.send({"MOTION": seconds})
+})
+
 // Use default router
 server.use(router)
 server.listen(PORT, () => {
