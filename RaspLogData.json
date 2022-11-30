@@ -1,0 +1,2766 @@
+
+[
+  {
+    "timestamp": "2022-11-29T08:34:51.505662",
+    "action": "WEATHER",
+    "values": [
+      21.94,
+      22.2,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:35:00.660945",
+    "action": "WEATHER",
+    "values": [
+      21.94,
+      24.9,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:35:26.126938",
+    "action": "WEATHER",
+    "values": [
+      21.94,
+      24.7,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:35:36.997917",
+    "action": "WEATHER",
+    "values": [
+      21.94,
+      24.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:42:07.310684",
+    "action": "WEATHER",
+    "values": [
+      22.13,
+      24.4,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:42:41.819783",
+    "action": "WEATHER",
+    "values": [
+      22.19,
+      24.0,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:44:01.926567",
+    "action": "WEATHER",
+    "values": [
+      22.19,
+      24.0,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:45:38.962037",
+    "action": "WEATHER",
+    "values": [
+      22.19,
+      24.0,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:46:29.187710",
+    "action": "WEATHER",
+    "values": [
+      22.19,
+      24.0,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:47:51.377729",
+    "action": "WEATHER",
+    "values": [
+      22.25,
+      24.0,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:51:16.386758",
+    "action": "WEATHER",
+    "values": [
+      22.31,
+      24.0,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:51:28.367142",
+    "action": "WEATHER",
+    "values": [
+      22.31,
+      24.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:52:40.492501",
+    "action": "WEATHER",
+    "values": [
+      22.31,
+      24.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:53:06.933239",
+    "action": "WEATHER",
+    "values": [
+      22.31,
+      24.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:53:37.762269",
+    "action": "WEATHER",
+    "values": [
+      22.31,
+      24.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:53:57.636491",
+    "action": "WEATHER",
+    "values": [
+      22.38,
+      24.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T08:54:07.164728",
+    "action": "WEATHER",
+    "values": [
+      22.38,
+      24.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T09:35:02.603688",
+    "action": "WEATHER",
+    "values": [
+      22.63,
+      24.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T09:44:12.892269",
+    "action": "WEATHER",
+    "values": [
+      22.38,
+      26.0,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:04:10.989297",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.2,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:09:58.865864",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:10:02.801831",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:10:08.550551",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:12:16.511224",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:12:20.864625",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:12:29.435840",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:12:39.610155",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:13:52.345153",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:14:01.449116",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:14:04.371113",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:14:09.036365",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:14:13.086656",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:14:16.297885",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:14:25.487079",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:14:42.273485",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:17:22.133584",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:22:15.345513",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:22:20.067224",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:22:36.453474",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:22:43.578141",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:22:45.687804",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:22:51.808990",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:22:59.847314",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:24:19.067847",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:24:27.845568",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.6,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:24:50.857630",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:24:51.347676",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:25:06.994848",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:25:07.436087",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:25:07.720124",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:25:07.960425",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:26:03.722628",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:26:17.661156",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:29:44.252887",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:29:57.211716",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:29:59.593107",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:55:09.024022",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      23.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:55:11.109654",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.2,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:55:14.374275",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.3,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:55:16.232085",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.3,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:58:07.611397",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.3,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:58:26.798034",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:59:12.723681",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:59:38.738785",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:59:48.033100",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T10:59:56.294387",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:00:13.098193",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:00:23.225331",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:00:28.370321",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:00:48.333631",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:01:06.134558",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:01:22.348162",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:01:38.758631",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:02:09.751779",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:04:31.672375",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:04:44.879400",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:05:34.528366",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:05:49.200051",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:05:54.172739",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:06:40.082703",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:06:45.101630",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:06:57.810971",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:07:09.012110",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:07:15.537178",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:07:25.225241",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:07:40.888186",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:07:51.724402",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:08:08.265016",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:08:13.889146",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:09:10.177546",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:09:36.415180",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:09:49.523298",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:09:54.093225",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:10:06.550975",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:15:34.597340",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:15:40.297280",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:15:45.563117",
+    "action": "WEATHER",
+    "values": [
+      23.0,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:31:22.212347",
+    "action": "WEATHER",
+    "values": [
+      22.5,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:31:33.404113",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:31:39.779480",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:31:44.397002",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:31:58.475269",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:01.261855",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:05.115331",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:08.787908",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:10.489910",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:12.161125",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:16.218178",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:18.053883",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:19.526607",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:32:21.382329",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:33:03.295412",
+    "action": "WEATHER",
+    "values": [
+      22.56,
+      24.2,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:33:25.716998",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:33:27.535633",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:33:31.395714",
+    "action": "WEATHER",
+    "values": [
+      22.5,
+      25.0,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:33:38.991021",
+    "action": "WEATHER",
+    "values": [
+      22.5,
+      24.6,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:33:59.536549",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:34:01.715503",
+    "action": "WEATHER",
+    "values": [
+      22.5,
+      24.6,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:34:48.866272",
+    "action": "WEATHER",
+    "values": [
+      22.56,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:36:50.364209",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:36:54.175451",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:36:56.232631",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:36:57.407896",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:37:02.333743",
+    "action": "WEATHER",
+    "values": [
+      22.56,
+      24.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:07.834000",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.3,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:16.934902",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:19.466899",
+    "action": "STATE ON",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:23.210852",
+    "action": "STATE OFF",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:25.168644",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:27.678015",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:31.422183",
+    "action": "STATE ON",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:34.078508",
+    "action": "STATE AUTO",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:38.839541",
+    "action": "STATE OFF",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:41.129027",
+    "action": "STATE ON",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:43.392420",
+    "action": "STATE AUTO",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:45.722863",
+    "action": "STATE OFF",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:47:46.868169",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:48:10.830936",
+    "action": "STATE AUTO",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:49:44.339747",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:50:56.135311",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T11:59:43.234191",
+    "action": "WEATHER",
+    "values": [
+      23.0,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:01:11.251738",
+    "action": "STATE ON",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:01:23.888947",
+    "action": "WEATHER",
+    "values": [
+      23.06,
+      25.3,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:07.450962",
+    "action": "STATE ON",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:14.922007",
+    "action": "STATE OFF",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:20.746837",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:24.189272",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:28.205485",
+    "action": "STATE ON",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:31.356500",
+    "action": "STATE AUTO",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:34.077436",
+    "action": "STATE OFF",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:36.299551",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:38.565593",
+    "action": "STATE AUTO",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:02:41.423493",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:03:14.015789",
+    "action": "WEATHER",
+    "values": [
+      23.06,
+      25.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:07:26.358469",
+    "action": "WEATHER",
+    "values": [
+      23.0,
+      25.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:07:31.490894",
+    "action": "STATE ON",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:07:33.261726",
+    "action": "STATE OFF",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:07:36.094743",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:07:38.489529",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:07:44.247536",
+    "action": "WEATHER",
+    "values": [
+      23.0,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:09:20.559364",
+    "action": "WEATHER",
+    "values": [
+      23.0,
+      25.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:35:26.624107",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:35:41.038127",
+    "action": "WEATHER",
+    "values": [
+      22.81,
+      24.4,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:35:50.962635",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:35:56.080390",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.4,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:37:41.156812",
+    "action": "WEATHER",
+    "values": [
+      22.88,
+      24.6,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:39:36.637096",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:42:38.137835",
+    "action": "WEATHER",
+    "values": [
+      22.94,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:44:19.782172",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T12:46:36.887513",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:08:57.122583",
+    "action": "WEATHER",
+    "values": [
+      23.0,
+      24.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:10:14.198080",
+    "action": "WEATHER",
+    "values": [
+      23.0,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:27:56.685917",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:29:08.872125",
+    "action": "WEATHER",
+    "values": [
+      23.06,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:30:21.987198",
+    "action": "WEATHER",
+    "values": [
+      23.06,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:30:24.269641",
+    "action": "WEATHER",
+    "values": [
+      23.06,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:41:05.653434",
+    "action": "WEATHER",
+    "values": [
+      23.13,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:43:57.176009",
+    "action": "WEATHER",
+    "values": [
+      23.06,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T13:44:30.403832",
+    "action": "WEATHER",
+    "values": [
+      23.13,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:00:23.701005",
+    "action": "WEATHER",
+    "values": [
+      23.19,
+      24.6,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:00:31.890106",
+    "action": "WEATHER",
+    "values": [
+      23.19,
+      25.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:01:13.891703",
+    "action": "WEATHER",
+    "values": [
+      23.19,
+      25.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:01:30.918431",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      25.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:01:39.476181",
+    "action": "STATE ON",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:01:48.787226",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      25.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:03:41.997448",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      25.2,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:03:45.925796",
+    "action": "STATE ON",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:03:49.457110",
+    "action": "STATE OFF",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:03:52.402314",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:03:55.690766",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:04:00.415382",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.9,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:09:20.270644",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.9,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:10:39.693179",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      24.9,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:11:03.513711",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      24.9,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:13:41.980740",
+    "action": "WEATHER",
+    "values": [
+      23.38,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:14:06.329349",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:14:10.788343",
+    "action": "WEATHER",
+    "values": [
+      23.38,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:21:00.291245",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:21:37.625316",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T14:22:13.490995",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:01:01.291375",
+    "action": "STATE ON",
+    "values": 1
+  },
+  {
+    "timestamp": "2022-11-29T15:01:54.207424",
+    "action": "STATE OFF",
+    "values": 1
+  },
+  {
+    "timestamp": "2022-11-29T15:05:18.387450",
+    "action": "WEATHER",
+    "values": [
+      23.5,
+      24.9,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:05:24.804618",
+    "action": "STATE ON",
+    "values": 4
+  },
+  {
+    "timestamp": "2022-11-29T15:05:27.594117",
+    "action": "WEATHER",
+    "values": [
+      23.5,
+      26.3,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:06:00.382781",
+    "action": "STATE ON",
+    "values": 4
+  },
+  {
+    "timestamp": "2022-11-29T15:06:02.763576",
+    "action": "STATE OFF",
+    "values": 4
+  },
+  {
+    "timestamp": "2022-11-29T15:06:07.055784",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      26.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:06:12.640444",
+    "action": "STATE ON",
+    "values": 4
+  },
+  {
+    "timestamp": "2022-11-29T15:06:13.773102",
+    "action": "STATE ON",
+    "values": 3
+  },
+  {
+    "timestamp": "2022-11-29T15:06:16.299819",
+    "action": "STATE ON",
+    "values": 2
+  },
+  {
+    "timestamp": "2022-11-29T15:06:17.486784",
+    "action": "STATE ON",
+    "values": 1
+  },
+  {
+    "timestamp": "2022-11-29T15:06:27.247748",
+    "action": "WEATHER",
+    "values": [
+      23.56,
+      25.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:06:38.125866",
+    "action": "WEATHER",
+    "values": [
+      23.56,
+      25.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:07:49.355530",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:08:46.500273",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:08:58.599370",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:09:19.488485",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:19:27.660054",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-29T15:21:53.607208",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:08:52.009003",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      23.9,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:09:08.396327",
+    "action": "WEATHER",
+    "values": [
+      23.19,
+      24.3,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:09:59.552593",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:10:02.991373",
+    "action": "WEATHER",
+    "values": [
+      23.19,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:12:27.858159",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:12:33.944167",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.7,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:12:46.932225",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.7,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:13:04.716647",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.7,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:13:19.283628",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.7,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:13:24.552478",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.7,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:13:41.835016",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:14:17.004334",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      24.8,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:15:28.192893",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:18:18.987928",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      24.8,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T10:18:25.775687",
+    "action": "WEATHER",
+    "values": [
+      23.31,
+      24.9,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T12:37:24.468796",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      24.9,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T12:37:32.912845",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      25.3,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T12:39:02.914160",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      25.2,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T12:39:16.447579",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      25.3,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T12:39:29.599613",
+    "action": "WEATHER",
+    "values": [
+      23.5,
+      25.3,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T12:39:42.592361",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      25.3,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:03:21.128677",
+    "action": "WEATHER",
+    "values": [
+      22.75,
+      25.3,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:06:14.370697",
+    "action": "WEATHER",
+    "values": [
+      23.0,
+      24.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:07:53.138162",
+    "action": "WEATHER",
+    "values": [
+      23.19,
+      24.7,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:10:16.617197",
+    "action": "WEATHER",
+    "values": [
+      23.25,
+      24.8,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:13:07.000683",
+    "action": "WEATHER",
+    "values": [
+      23.38,
+      25.0,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:13:15.577529",
+    "action": "WEATHER",
+    "values": [
+      23.38,
+      25.1,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:15:39.272813",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      25.1,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:16:10.563041",
+    "action": "WEATHER",
+    "values": [
+      23.5,
+      25.2,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:16:18.397291",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      25.2,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:16:57.187531",
+    "action": "WEATHER",
+    "values": [
+      23.5,
+      25.2,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:29:23.312604",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.2,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:29:40.067325",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:30:55.494808",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.4,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:33:04.056942",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      25.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:33:10.241387",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      25.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:33:16.408682",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:36:12.887114",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.4,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:55:25.827249",
+    "action": "WEATHER",
+    "values": [
+      23.88,
+      25.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T13:55:40.574446",
+    "action": "WEATHER",
+    "values": [
+      23.88,
+      25.6,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:43:55.118526",
+    "action": "WEATHER",
+    "values": [
+      23.81,
+      25.6,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:44:01.107571",
+    "action": "WEATHER",
+    "values": [
+      23.81,
+      27.1,
+      10.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:44:13.236777",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      26.9,
+      10.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:44:29.701332",
+    "action": "WEATHER",
+    "values": [
+      23.81,
+      26.7,
+      10.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:47:44.260509",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      26.5,
+      10.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:48:18.989183",
+    "action": "WEATHER",
+    "values": [
+      23.81,
+      25.9,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:48:27.799786",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      25.8,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:48:49.502420",
+    "action": "WEATHER",
+    "values": [
+      23.81,
+      25.8,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:48:59.295314",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      25.8,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:49:54.632454",
+    "action": "WEATHER",
+    "values": [
+      23.81,
+      25.8,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T14:51:31.705859",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      25.7,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:05:13.917118",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.7,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:05:23.654506",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:05:32.672690",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:06:13.297107",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:06:32.015235",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:06:35.431685",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:06:46.193404",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      25.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:11:40.061193",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      12.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:12:45.582222",
+    "action": "WEATHER",
+    "values": [
+      23.63,
+      25.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:17:56.665859",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:18:02.961475",
+    "action": "WEATHER",
+    "values": [
+      23.75,
+      25.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:20:05.534509",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:24:28.307492",
+    "action": "WEATHER",
+    "values": [
+      23.69,
+      25.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-28T15:38:05.228371",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      25.5,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T18:14:56.003309",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T18:15:38.947473",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:47:28.380581",
+    "action": "WEATHER",
+    "values": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:00:41.921645",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:00:46.955174",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:00:53.744124",
+    "action": "STATE ON",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:01:02.969086",
+    "action": "STATE AUTO",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:01:18.678675",
+    "action": "WEATHER",
+    "values": [
+      22.0,
+      21.9,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:57:23.295259",
+    "action": "STATE AUTO",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:57:45.350093",
+    "action": "WEATHER",
+    "values": [
+      22.06,
+      22.8,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:03:16.920413",
+    "action": "WEATHER",
+    "values": [
+      22.25,
+      22.9,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:03:45.512946",
+    "action": "WEATHER",
+    "values": [
+      22.44,
+      23.3,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:03:51.035141",
+    "action": "WEATHER",
+    "values": [
+      22.44,
+      24.6,
+      75.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:04:32.223270",
+    "action": "WEATHER",
+    "values": [
+      22.69,
+      24.8,
+      77.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:57:26.088763",
+    "action": "WEATHER",
+    "values": [
+      22.38,
+      23.9,
+      15.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:59:04.743716",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:59:16.454444",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:59:24.145884",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:59:33.198153",
+    "action": "STATE OFF",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:59:41.545068",
+    "action": "STATE ON",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T20:59:51.838523",
+    "action": "STATE AUTO",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:00:17.499736",
+    "action": "STATE OFF",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:00:26.590554",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:00:32.482098",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:00:43.358499",
+    "action": "STATE AUTO",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:01:07.921291",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:07:01.199002",
+    "action": "WEATHER",
+    "values": [
+      22.31,
+      23.7,
+      13.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-23T21:07:14.519027",
+    "action": "WEATHER",
+    "values": [
+      22.31,
+      23.8,
+      11.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:27:16.843118",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:30:36.733991",
+    "action": "WEATHER",
+    "values": [
+      22.38,
+      22.8,
+      13.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:30:55.700800",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:31:00.486241",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:31:33.075948",
+    "action": "STATE ON",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:31:44.065880",
+    "action": "STATE ON",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:31:50.689526",
+    "action": "STATE ON",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:32:13.130199",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:32:21.778768",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:32:28.098624",
+    "action": "STATE OFF",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:32:35.302270",
+    "action": "STATE OFF",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:32:40.741395",
+    "action": "STATE OFF",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:32:59.007900",
+    "action": "STATE AUTO",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T12:33:34.222653",
+    "action": "STATE AUTO",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T13:56:12.602012",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T14:07:24.473637",
+    "action": "STATE ON",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T14:07:36.033824",
+    "action": "STATE OFF",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "timestamp": "2022-11-24T15:19:57.449072",
+    "action": "WEATHER",
+    "values": [
+      23.44,
+      24.6,
+      11.0
+    ]
+  }
+]

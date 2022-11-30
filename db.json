@@ -17,17 +17,17 @@
     {
       "timestamp": "2022-11-09T12:12:04.345240",
       "action": "STATE AUTO",
-      "values": 1
+      "values": [1]
     },
     {
       "timestamp": "2022-11-09T12:12:04.345240",
       "action": "STATE OFF",
-      "values": 2
+      "values": [2]
     },
     {
       "timestamp": "2022-11-09T12:12:04.345240",
       "action": "STATE ON",
-      "values": 3
+      "values": [3]
     },
     {
       "timestamp": "2022-11-09T12:12:04.345240",
